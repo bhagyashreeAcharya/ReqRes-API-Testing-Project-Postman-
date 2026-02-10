@@ -92,17 +92,17 @@ ReqRes-API-Testing-Project/
 ├── Screenshots/
 │   ├── 01_Collection_Overview.png
 │   ├── 02_Environment_Variables.png
-│   ├── 03_Get_List_Users.png
-│   ├── 04_Get_Single_User.png
-│   ├── 05_User_Not_Found.png
-│   ├── 06_Create_User.png
-│   ├── 07_Update_User.png
-│   ├── 08_Delete_User.png
-│   ├── 09_Register_Success.png
-│   ├── 10_Login_Success.png
-│   ├── 11_Login_Failure.png
-│   ├── 12_Test_Scripts.png
-│   └── 13_Collection_Run_TestResults.png
+│   ├── 03_Create_User_201.png
+│   ├── 04_Update_User_200.png
+│   ├── 05_Delete_User_&Test_Script_204.png
+│   ├── 06_Register_User_Success_200.png
+│   ├── 07_Register_User_Failure_400.png
+│   ├── 08_Login_Success_200.png
+│   ├── 09_Login_Failure_400.png
+│   ├── 10_Create_User_Script.png
+│   ├── 11_Login_Failur_Script.png
+│   ├── 12_Collection_Run_All_Passed.png
+│   └── 13_Collection_Run_All_Passed.png
 │
 └── README.md
 ```
